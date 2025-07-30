@@ -25,16 +25,11 @@ string finalResult = inputA==inputB ? equalCheck : equalCheck;
 Console.WriteLine("\n" + finalResult);
 
 
-
 // While loop to get it right
 
 
 int lowestNumber(int a, int b)
 {
-
-     a = inputA;
-     b = inputB;
-
      // Declares resultCheck before use.
      int resultCheck = a < b && a != b ? a : b;
 

@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Write two whole numerical values to evaluate which is lowest: ");
+Console.WriteLine("Write two whole numerical values to evaluate which is lowest: ");
 
 //Checks input A and whether. If it's a letter, loops until user enters number.
 int inputA;
